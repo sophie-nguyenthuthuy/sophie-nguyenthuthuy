@@ -34,7 +34,11 @@ I implement the systems behind modern data platforms **from scratch** — to und
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie-nguyenthuthuy&layout=compact&hide=jupyter%20notebook&langs_count=8)
+![Python](https://img.shields.io/badge/Python-main%20language-3776ab?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-aec--platform-3178c6?logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/Go-systems-00add8?logo=go&logoColor=white)
+![100+ projects](https://img.shields.io/badge/projects-100%2B-orange)
+![Tests](https://img.shields.io/badge/tests-2500%2B-brightgreen)
 
 *Let's talk data systems — issues and PRs welcome on any repo.*
 
